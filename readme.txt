@@ -5,4 +5,4 @@ Git is free softwar distributed under the GPL.
 Git has a mutable index called stage
 Git tracks changes
 Stupid boss
-Creadtign a new branch is quick
+Creadtign a new branch is quickCreating a new branch is quick AND simple
